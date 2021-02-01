@@ -6,6 +6,9 @@ The cucumber features goes in the features library and should have the ".feature
 
 You can start out by looking at features/Features.feature.
 
+# Step Definition
+Go to apiStepdefinition-> StepDefinitions class for Step implementation of featues.
+
 # Running test
 Right Click on TestRunner class and Click Run As > JUnit Test
 
